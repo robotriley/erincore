@@ -3,6 +3,7 @@
 the erincore app is designed to reccomend its users erincore movies.
 
 [] make a wireframe
+[] buy access to the movies api
 [] write pseudocode for the main feature
 [] code it
 [] style it
