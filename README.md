@@ -21,3 +21,6 @@ user selects a genre from the dropdown menu
 presses "erincore" button
 fetch yadda yadda
 returns an erincore movie from the selected genre
+
+
+another idea: this would be a good opportunity to learn how to include 'share' feature, similar to sharing your daily wordle score.
