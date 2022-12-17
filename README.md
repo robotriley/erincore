@@ -24,3 +24,4 @@ returns an erincore movie from the selected genre
 
 
 another idea: this would be a good opportunity to learn how to include 'share' feature, similar to sharing your daily wordle score.
+animation idea: what if like, when you click the 'erincore' button, there's an animation. like a movie reel spinning, or a 'shuffling' of various movie posters, before landing on the movie chosen. WHAT IF, MAN?
