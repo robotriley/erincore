@@ -14,7 +14,8 @@ the erincore app is designed to reccomend its users erincore movies.
 the main feature:
 user clicks the "erincore" button
 and the app fetches data from a movie API
-returns a random title that has a total running time less than or equal to 90min
+returns a random movie that has a total running time less than or equal to 90min
+includes: movie title, director, genre, movie poster image, and of course total running time 
 
 2nd feature:
 user selects a genre from the dropdown menu
